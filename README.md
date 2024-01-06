@@ -6,7 +6,7 @@ Hi, I'm Frances! I have a technical professional background and hold a Bachelor 
 
 My Data Analytics blog on [WordPress](https://odunaiyafrances.wordpress.com/2023/12/19/growth-unlocked/)
 
-My CV in [Resume](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf)
+My CV in [Resume](https://frances-odunaiya.github.io/Online_Resume/)
 
 <br>
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
@@ -30,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Kaggle 30 Days of ML
 
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
+**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/kaggle_30_Days_of_ML)  
 **Status:** in Progress
 
 ### Tableau Vizzes
