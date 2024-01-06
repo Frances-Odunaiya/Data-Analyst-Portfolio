@@ -9,7 +9,7 @@ My Data Analytics blog on [WordPress](https://odunaiyafrances.wordpress.com/2023
 My CV in [Resume](https://frances-odunaiya.github.io/Online_Resume/)
 
 <br>
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+This repository serves to showcase my skills, as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
 
 ## Table of contents
