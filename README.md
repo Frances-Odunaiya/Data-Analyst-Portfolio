@@ -18,7 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   - [About](#about)
   - [Table of contents](#table-of-contents)
   - [Projects](#projects)
-    - [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+    - [Kaggle 30 Days of ML](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
   - [Certificates](#certificates)
   - [Contacts](#contacts)
@@ -27,7 +27,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Kaggle 30 Days of ML
+### Kaggle machine learning
 
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
 **Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/kaggle_machine_learning)  
@@ -48,8 +48,8 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [ALX-T Full Stack Developer](confirm.udacity.com/S5KCDGDC) (Oct 2022) (Udacity NanoDegree)
 - [Scrum Foundation Professional Certificate (SFPC)](https://certiprof.com/collections/devops-certifications) (June 2022) (CertiProf Professional Knowledge)
 - [Introduction to Linux](https://www.simplilearn.com/search?tag=Basic+Introduction+to+Linux+Course) (June 2022) (Skill Up - Simplilearn Institute)
+- [Basics of Automation Anywhere](https://www.simplilearn.com/search?tag=Basic+of+Automation+Anywhere) (June 2022) (Skill Up - Simplilearn Institute)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) (June 2021) (Microsoft)
-
 
 ## Contacts
 
