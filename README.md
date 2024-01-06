@@ -27,6 +27,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Microsoft Excel
+
+**Description:** Microsoft Excel is a powerful spreadsheet software widely used for data analysis, calculation, and visualization. It offers a user-friendly interface with versatile functions for managing numerical data. Excel is a fundamental tool for businesses, academics, and individuals for creating tables, charts, and complex calculations.
+**Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/) 
+
 ### Kaggle machine learning
 
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
