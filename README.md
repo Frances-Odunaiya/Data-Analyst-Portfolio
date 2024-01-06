@@ -29,8 +29,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Kaggle 30 Days of ML
 
-**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/kaggle_30_Days_of_ML)  
+**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
+**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/kaggle_machine_learning)  
 **Status:** in Progress
 
 ### Tableau Vizzes
@@ -42,8 +42,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-- [Introduction to Linux](https://stepik.org/cert/4441) (Dec 2014) (Stepik - Bioinformatics Institute)
-- [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+- [SQL Advanced](https://www.hackerrank.com/certificates/a1b6a80f2c40) (Jan 2024) (HackerRank)
+- [Google Professional Data Analytics](https://coursera.org/verify/professional-cert/L7M5PHZLC5V8)) (Oct 2023) (Google)
+- [Business Analysis Fundamentals - ECBA, CCBA CBAP Endorsed](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) (June 2023) (Udemy)
+- [ALX-T Full Stack Developer](confirm.udacity.com/S5KCDGDC) (Oct 2022) (Udacity NanoDegree)
+- [Scrum Foundation Professional Certificate (SFPC)](https://certiprof.com/collections/devops-certifications) (June 2022) (CertiProf Professional Knowledge)
+- [Introduction to Linux](https://www.simplilearn.com/search?tag=Basic+Introduction+to+Linux+Course) (June 2022) (Skill Up - Simplilearn Institute)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) (June 2021) (Microsoft)
+
 
 ## Contacts
 
