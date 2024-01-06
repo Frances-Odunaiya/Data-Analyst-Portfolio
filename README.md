@@ -18,6 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   - [About](#about)
   - [Table of contents](#table-of-contents)
   - [Projects](#projects)
+    - [Data Analysis Using Microsoft Excel](#data-analysis-using-microsoft-excel)
     - [Kaggle machine learning](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
   - [Certificates](#certificates)
@@ -30,12 +31,12 @@ In this section I will list data analytics projects briefly describing the techn
 ### Microsoft Excel
 
 **Description:** Microsoft Excel is a powerful spreadsheet software widely used for data analysis, calculation, and visualization. It offers a user-friendly interface with versatile functions for managing numerical data. Excel is a fundamental tool for businesses, academics, and individuals for creating tables, charts, and complex calculations.
-**Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/) 
+**Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analyst-Portfolio.git)) 
 
 ### Kaggle machine learning
 
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/kaggle_machine_learning)  
+**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/Data-Analyst-Portfolio.git)  
 **Status:** in Progress
 
 ### Tableau Vizzes
