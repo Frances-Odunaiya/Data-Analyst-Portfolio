@@ -18,7 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
   - [About](#about)
   - [Table of contents](#table-of-contents)
   - [Projects](#projects)
-    - [Kaggle 30 Days of ML](#kaggle-machine-learning)
+    - [Kaggle machine learning](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
   - [Certificates](#certificates)
   - [Contacts](#contacts)
