@@ -19,6 +19,7 @@ This repository serves to showcase my skills, as a platform to share my projects
   - [Table of contents](#table-of-contents)
   - [Projects](#projects)
     - [Data Analysis Using Microsoft Excel](#data-analysis-using-microsoft-excel)
+    - [Data Visualizations using Power Bi](#data-visualizations-using-power-bi)
     - [Kaggle machine learning](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
   - [Certificates](#certificates)
@@ -28,10 +29,14 @@ This repository serves to showcase my skills, as a platform to share my projects
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Microsoft Excel
+### Data Analysis Using Microsoft Excel
 
 **Description:** Microsoft Excel is a powerful spreadsheet software widely used for data analysis, calculation, and visualization. It offers a user-friendly interface with versatile functions for managing numerical data. Excel is a fundamental tool for businesses, academics, and individuals for creating tables, charts, and complex calculations.
-**Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analyst-Portfolio.git)) 
+**Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analyst-Portfolio.git) 
+
+### Data Visualizations Using POWER BI
+**Description:** Power BI is a Microsoft business analytics tool for creating interactive reports and dashboards. Users can connect to diverse data sources, transform data, and build visualizations. The cloud-based Power BI Service allows sharing and collaboration on reports. Power BI Mobile offers on-the-go access to reports on iOS and Android devices. With features like Power Query and DAX, Power BI is a comprehensive solution for data analysis and visualization.
+**Repository:** Check the repository having Excel spreadsheets containing Data, Problems and Answers in  PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analyst-Portfolio.git)
 
 ### Kaggle machine learning
 
