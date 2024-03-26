@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Frances! I have a technical professional background and hold a Bachelor of Science (B.Sc) degree in Microbiology from Lagos State University, an Advanced Diploma in Business Management from University of Lagos, and a Corporate & Continuing Education Certificate in Business Intelligence and Analytics from Northern Alberta Institute of Technology. I have over 5 years of technical experience, where I held roles such as Software Engineer, Process Automation Unit, and Front Line Technical Support Officer in a Financial Institution. After a year of transitioning from Software Development to Data Analysis, I am currently a Data and Business Systems Analyst at a Beauty company, starting from February 2023.
+Hi, I'm Frances! I have a technical professional background and hold a Bachelor of Science (B.Sc) degree in Microbiology from Lagos State University, an Advanced Diploma in Business Management from University of Lagos, and a Corporate & Continuing Education Certificate in Business Intelligence and Analytics from Northern Alberta Institute of Technology. I have over 5 years of technical experience, where I held roles such as Software Engineer - Process Automation Unit, and Front Line Technical Support Officer in a Financial Institution, Customer Insight Analyst at a beauty company in Canada. After a year of transitioning from Software Development to Data Analysis, I am currently a Canada Digital Adoption Program Ecommerce Advisor and Analyst at Mosaic North America, starting from January 2024.
 
 This is the Main Page for all exploration of Data. It is designed to help with with navigation to the main project folders. 
 
