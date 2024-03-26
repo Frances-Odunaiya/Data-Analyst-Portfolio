@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Data Visualizations Using POWER BI
 **Description:** Power BI is a Microsoft business analytics tool for creating interactive reports and dashboards. Users can connect to diverse data sources, transform data, and build visualizations. The cloud-based Power BI Service allows sharing and collaboration on reports. Power BI Mobile offers on-the-go access to reports on iOS and Android devices. With features like Power Query and DAX, Power BI is a comprehensive solution for data analysis and visualization.
-**Repository:** Check the repository having Excel spreadsheets containing Data, Problems and Answers in  PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analyst-Portfolio.git)
+**Repository:** Check the repository having Excel spreadsheets containing Data, Problems and Answers in  PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWERBI.git)
 
 ### Kaggle machine learning
 
