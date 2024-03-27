@@ -55,11 +55,13 @@ In this section I will list data analytics projects briefly describing the techn
 ### Tableau Vizzes
 
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/frances.odunaiya/)  
+
 **Status:** ∞
 
 ### Kaggle Vizzes
 
-**Description:** My Kaggle Public account ---> [go to Kaggle..](https://www.kaggle.com/rollyf)
+**Description:** My Kaggle Public account ---> [go to Kaggle..](https://www.kaggle.com/rollyf/)
+
 **Status:** ∞
 
 ## Certificates
@@ -67,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
 - [SQL Advanced](https://www.hackerrank.com/certificates/a1b6a80f2c40) (Jan 2024) (HackerRank)
-- [Google Professional Data Analytics](https://coursera.org/verify/professional-cert/L7M5PHZLC5V8)) (Oct 2023) (Google)
+- [Google Professional Data Analytics](https://coursera.org/verify/professional-cert/L7M5PHZLC5V8) (Oct 2023) (Google)
 - [Business Analysis Fundamentals - ECBA, CCBA CBAP Endorsed](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) (June 2023) (Udemy)
 - [ALX-T Full Stack Developer](confirm.udacity.com/S5KCDGDC) (Oct 2022) (Udacity NanoDegree)
 - [Scrum Foundation Professional Certificate (SFPC)](https://certiprof.com/collections/devops-certifications) (June 2022) (CertiProf Professional Knowledge)
