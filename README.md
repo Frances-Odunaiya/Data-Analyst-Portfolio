@@ -22,8 +22,10 @@ This repository serves to showcase my skills, as a platform to share my projects
   - [Projects](#projects)
     - [Data Analysis Using Microsoft Excel](#data-analysis-using-microsoft-excel)
     - [Data Visualizations using Power Bi](#data-visualizations-using-power-bi)
+    - [Data Analysis and Visualization utilizing Python](#Data-Analysis-and-Visualization-utilizing-Python)
     - [Kaggle machine learning](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
+    - [Kaggle Vizzes](#Kaggle-vizzes)
   - [Certificates](#certificates)
   - [Contacts](#contacts)
 
@@ -40,15 +42,24 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** Power BI is a Microsoft business analytics tool for creating interactive reports and dashboards. Users can connect to diverse data sources, transform data, and build visualizations. The cloud-based Power BI Service allows sharing and collaboration on reports. Power BI Mobile offers on-the-go access to reports on iOS and Android devices. With features like Power Query and DAX, Power BI is a comprehensive solution for data analysis and visualization.
 **Repository:** Check the repository that contains all the Data, Problems which can be seen in the PDF/Doc.x files and PowerBi reporting Dashboards containing all visuals gotten from insights. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI.git)
 
+### Data Analysis and Visualization utilizing Python
+**Description:** Data analysis and visualization using Python involves leveraging Python programming language and its libraries to analyze datasets and present insights visually. Python offers powerful tools such as pandas for data manipulation, NumPy for numerical computing, and libraries like Matplotlib, Seaborn, and Plotly for creating various types of visualizations, including plots, charts, and graphs. By combining data analysis techniques with visualization capabilities, Python enables users to explore, understand, and communicate complex data patterns effectively.
+**Repository:** Check the repository that aims to showcase various data analysis and visualization projects implemented using Python. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualization-utilizing-Python.git)
+
 ### Kaggle machine learning
 
 **Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/frances-odunaiya/Data-Analyst-Portfolio.git)  
+**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/intro_to_machine_learning.git)  
 **Status:** in Progress
 
 ### Tableau Vizzes
 
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/frances.odunaiya/)  
+**Status:** ∞
+
+### Kaggle Vizzes
+
+**Description:** My Kaggle Public account ---> [go to Kaggle..](https://www.kaggle.com/rollyf)
 **Status:** ∞
 
 ## Certificates
