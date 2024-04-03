@@ -23,6 +23,7 @@ This repository serves to showcase my skills, as a platform to share my projects
     - [Data Analysis Using Microsoft Excel](#data-analysis-using-microsoft-excel)
     - [Data Visualizations using Power Bi](#data-visualizations-using-power-bi)
     - [Data Analysis and Visualization utilizing Python](#Data-Analysis-and-Visualization-utilizing-Python)
+    - [Data Analysis and Visualizations Using SQL POWERBI](#Data-Analysis-and-Visualizations-Using-SQL-POWERBI)
     - [Kaggle machine learning](#kaggle-machine-learning)
     - [Tableau Vizzes](#tableau-vizzes)
     - [Kaggle Vizzes](#Kaggle-vizzes)
@@ -45,6 +46,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### Data Analysis and Visualization utilizing Python
 **Description:** Data analysis and visualization using Python involves leveraging Python programming language and its libraries to analyze datasets and present insights visually. Python offers powerful tools such as pandas for data manipulation, NumPy for numerical computing, and libraries like Matplotlib, Seaborn, and Plotly for creating various types of visualizations, including plots, charts, and graphs. By combining data analysis techniques with visualization capabilities, Python enables users to explore, understand, and communicate complex data patterns effectively.
 **Repository:** Check the repository that aims to showcase various data analysis and visualization projects implemented using Python. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualization-utilizing-Python.git)
+
+### Data Analysis and Visualizations Using SQL POWERBI
+**Description:** SQL (Structured Query Language) is used to query, manipulate, and analyze data stored in relational databases. I am utilizing SQL queries to extract, transform, and analyze data from the database.
+I will be leveraging SQL for data analysis tasks and Power BI for visualization. Power BI is a powerful business analytics tool by Microsoft that allows users to visualize and share insights from their data. I am using Power BI to create interactive and visually appealing dashboards that showcase the insights derived from SQL analysis.
+**Repository:** Check the repository that aims to provide insights into various datasets through SQL queries and then visualize these insights in an interactive dashboard format using Power BI.. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI.git)
 
 ### Kaggle machine learning
 
