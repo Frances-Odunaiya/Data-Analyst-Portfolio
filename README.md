@@ -37,19 +37,23 @@ In this section I will list data analytics projects briefly describing the techn
 ### Data Analysis Using Microsoft Excel
 
 **Description:** Microsoft Excel is a powerful spreadsheet software widely used for data analysis, calculation, and visualization. It offers a user-friendly interface with versatile functions for managing numerical data. Excel is a fundamental tool for businesses, academics, and individuals for creating tables, charts, and complex calculations.
+
 **Repository:** Check the repository having Excel Spreadsheets and some PDF files to back up with the problems/ tasks' solutions ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-using-Microsoft-Excel.git) 
 
 ### Data Visualizations Using POWER BI
 **Description:** Power BI is a Microsoft business analytics tool for creating interactive reports and dashboards. Users can connect to diverse data sources, transform data, and build visualizations. The cloud-based Power BI Service allows sharing and collaboration on reports. Power BI Mobile offers on-the-go access to reports on iOS and Android devices. With features like Power Query and DAX, Power BI is a comprehensive solution for data analysis and visualization.
+
 **Repository:** Check the repository that contains all the Data, Problems which can be seen in the PDF/Doc.x files and PowerBi reporting Dashboards containing all visuals gotten from insights. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI.git)
 
 ### Data Analysis and Visualization utilizing Python
 **Description:** Data analysis and visualization using Python involves leveraging Python programming language and its libraries to analyze datasets and present insights visually. Python offers powerful tools such as pandas for data manipulation, NumPy for numerical computing, and libraries like Matplotlib, Seaborn, and Plotly for creating various types of visualizations, including plots, charts, and graphs. By combining data analysis techniques with visualization capabilities, Python enables users to explore, understand, and communicate complex data patterns effectively.
+
 **Repository:** Check the repository that aims to showcase various data analysis and visualization projects implemented using Python. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualization-utilizing-Python.git)
 
 ### Data Analysis and Visualizations Using SQL POWERBI
 **Description:** SQL (Structured Query Language) is used to query, manipulate, and analyze data stored in relational databases. I am utilizing SQL queries to extract, transform, and analyze data from the database.
 I will be leveraging SQL for data analysis tasks and Power BI for visualization. Power BI is a powerful business analytics tool by Microsoft that allows users to visualize and share insights from their data. I am using Power BI to create interactive and visually appealing dashboards that showcase the insights derived from SQL analysis.
+
 **Repository:** Check the repository that aims to provide insights into various datasets through SQL queries and then visualize these insights in an interactive dashboard format using Power BI.. ---> [go to repo..](https://github.com/Frances-Odunaiya/Data-Analysis-and-Visualizations-Using-SQL-POWERBI.git)
 
 ### Kaggle machine learning
