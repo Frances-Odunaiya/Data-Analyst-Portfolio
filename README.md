@@ -7,7 +7,6 @@ Hello, I'm Frances! With a technical professional background, I possess a Corpor
 This is the Main Page for all exploration of Data. It is designed to help with with navigation to the main project folders. 
 
 My CV in [Resume](https://frances-odunaiya.github.io/Online_Resume/)
-
 <br>
 This repository serves to showcase my skills, as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
